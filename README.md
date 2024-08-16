@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DArhoda
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning ...SQL and Phyton
-- 💞️ I’m looking to collaborate on ...Data analytics projects
+- 👀 I’m interested in informationsecurity
+- 🌱 I’m currently learning ...SQL and Phyton, wireshack and vulnerability scanning tools.
+- 💞️ I’m looking to collaborate on ...Data security projects
 - 📫 How to reach me ... instagram dami_Ayobami
 
 <!---
