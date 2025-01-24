@@ -18,6 +18,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 
 **📊 Featured Projects**
+
 **E-commerce Sales Dashboard**
 
 Created an interactive Power BI dashboard analyzing e-commerce 
