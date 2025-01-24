@@ -1,5 +1,5 @@
 **Welcome to my portfolio!** I'm a Data Professional 
-with a strong passion for leveraging data-driven 
+with a strong passion for Artificial intelligence and leveraging data-driven 
 insights to solve complex business challenges. 
 My background includes a blend of programming, data analysis, 
 and project management, combined with a strategic
