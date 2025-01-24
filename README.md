@@ -8,20 +8,20 @@ understanding of business operations.
 
 **🛠 Skills and Tools**
 
-**Data Analysis & Visualization:** Excel, Tableau, Power BI,
+_Data Analysis & Visualization:_ Excel, Tableau, Power BI,
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-**Databases:** SQL, PostgreSQL
+_Databases:_ SQL, PostgreSQL
 
-**Programming:** Python, R
+_Programming:_ Python, R
 
-**Machine Learning:** Regression, Classification, Clustering
+_Machine Learning:_ Regression, Classification, Clustering
 
-**Business Tools:** SAP, CRM Systems, Financial Modeling
+_Business Tools:_ SAP, CRM Systems, Financial Modeling
 
-**Project Management:** Agile, Scrum, JIRA, Trello
+_Project Management:_ Agile, Scrum, JIRA, Trello
 
-**Soft Skills:** Stakeholder Management, Communication, Problem Solving.
+_Soft Skills:_ Stakeholder Management, Communication, Problem Solving.
 
 
 **📊 Featured Projects**
