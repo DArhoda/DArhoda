@@ -15,7 +15,12 @@ _Databases:_ SQL, PostgreSQL
 
 _Programming:_ Python, R
 
-_Machine Learning:_ Regression, Classification, Clustering
+_Machine Learning & AI:_ Experience with regression,
+classification, and clustering algorithms. 
+Knowledge of AI techniques including neural networks, deep learning, 
+and natural language processing (NLP) 
+for advanced predictive modeling and automation.
+
 
 _Business Tools:_ SAP, CRM Systems, Financial Modeling
 
