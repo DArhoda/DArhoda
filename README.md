@@ -41,8 +41,10 @@ Analyzed sales data for a multinational retailer,
 identifying high-performing regions and products.
 Tools Used: SQL, Tableau
 
-🎯 **Certifications**
-Google Data Analytics Professional Certificate
+🎯 **Qualifications and Certifications**
+MBA Business Analytics
+Google Project Management Professional Certificate
+Certified Scrum Master
 Tableau Desktop Specialist
 Microsoft Power BI Data Analyst
 Lean Six Sigma Green Belt
