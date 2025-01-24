@@ -44,10 +44,15 @@ Tools Used: SQL, Tableau
 🎯 **Qualifications and Certifications**
 
 MBA Business Analytics
+
 Google Project Management Professional Certificate
+
 Certified Scrum Master
+
 Tableau Desktop Specialist
+
 Microsoft Power BI Data Analyst
+
 Lean Six Sigma Green Belt
 
 🌟 **What I Bring**
