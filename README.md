@@ -42,6 +42,7 @@ identifying high-performing regions and products.
 Tools Used: SQL, Tableau
 
 🎯 **Qualifications and Certifications**
+
 MBA Business Analytics
 Google Project Management Professional Certificate
 Certified Scrum Master
