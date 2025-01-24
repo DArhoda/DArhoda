@@ -15,10 +15,13 @@ _Databases:_ SQL, PostgreSQL
 
 _Programming:_ Python, R
 
-_Machine Learning & AI:_ Experience with regression,
+_Machine Learning & AI:_ Experience with 
+regression,
 classification, and clustering algorithms. 
-Knowledge of AI techniques including neural networks, deep learning, 
-and natural language processing (NLP) 
+Knowledge of AI techniques 
+including neural networks,
+deep learning, and 
+natural language processing (NLP) 
 for advanced predictive modeling and automation.
 
 
