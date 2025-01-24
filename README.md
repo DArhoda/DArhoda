@@ -1,4 +1,4 @@
-**Welcome to my portfolio!**I'm a Data Professional, 
+**Welcome to my portfolio!** I'm a Data Professional 
 with a strong passion for leveraging data-driven 
 insights to solve complex business challenges. 
 My background includes a blend of programming, data analysis, 
